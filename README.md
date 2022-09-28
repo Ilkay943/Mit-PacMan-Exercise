@@ -11,7 +11,7 @@ Open the index.html in your web browser
 Click the 'Create Pac-man' and 'Play' buttons.
 
 
-MIT License
+## MIT License
 
 Copyright (c) 2022 Ilkay943
 
