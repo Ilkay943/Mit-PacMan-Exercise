@@ -1,7 +1,12 @@
 # Mit-PacMan-Exercise
-In this exercise we create Pac Man as much as we want with the Add PacMan button.
 
-Also we can start the Pac Man moves between two borders.
+## Discription
 
-In this exercise we studyied to make Pac Man move in certain borders and create buttons that starts the movements of the Pac Man.
+In this exercise we create Pac-Mans and we can move them between borders.We can create as much as we want.
+
+## How to Run
+
+You should first clone the repository. 
+Open the index.html in your web browser
+Click the 'Create Pac-man' and 'Play' buttons.
 
